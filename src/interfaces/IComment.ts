@@ -4,4 +4,5 @@ export interface IComment {
     body: string;
     date: Date;
     author: string;
+    color: string;
 }
